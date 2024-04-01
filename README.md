@@ -1,5 +1,5 @@
 # Projeto_LotoFacil
-O projeto LotoFacil é uma aplicação Java simples de console que simula jogos de loteria. Os usuários podem escolher entre apostar em um número de 0 a 100, apostar em uma letra de A a Z, ou apostar se o próximo número será par ou ímpar. O projeto foi criado com o objetivo de praticar conceitos básicos de Java.
+O projeto é uma aplicação Java simples de console que simula jogos de loteria. Os usuários podem escolher entre apostar em um número de 0 a 100, apostar em uma letra de A a Z, ou apostar se o próximo número será par ou ímpar. O projeto foi criado com o objetivo de praticar conceitos básicos de Java.
 
 JDK versão: 17
 
