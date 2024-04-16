@@ -1,15 +1,52 @@
-# Projeto_LotoFacil
-O projeto é uma aplicação Java simples de console que simula jogos de loteria. Os usuários podem escolher entre apostar em um número de 0 a 100, apostar em uma letra de A a Z, ou apostar se o próximo número será par ou ímpar. O projeto foi criado com o objetivo de praticar conceitos básicos de Java.
+<h1><b>Loto Fácil</b></h1>
 
-JDK versão: 17
+LotoFacil é uma aplicação Java de linha de comando que permite aos usuários fazer três tipos de apostas: numéricas, alfabéticas e de paridade (par ou ímpar). Os usuários podem tentar a sorte escolhendo números entre 0 e 100, selecionando letras de A a Z, ou adivinhando se o próximo número gerado aleatoriamente será par ou ímpar.
 
-Para executar o projeto, você precisa ter o Java Development Kit (JDK) instalado em sua máquina. O projeto foi desenvolvido usando o JDK 17. Aqui estão os passos para rodar o projeto:
-Clone o repositório para a sua máquina local ou faça o download dos arquivos do projeto.
-Abra um terminal ou prompt de comando na pasta que contém os arquivos do projeto.
-Compile o arquivo LotoFacil.java usando o comando: javac exercicio/LotoFacil.java
-Execute a classe compilada com o comando: java exercicio.LotoFacil
+<h1><b>Funcionalidades</b></h1>
 
-Funcionalidades
-Apostar de 0 a 100: O usuário digita um número entre 0 e 100 e tenta adivinhar o número aleatório gerado pelo sistema.
-Apostar de A a Z: O usuário digita uma letra e tenta adivinhar a letra pré-definida pelo sistema.
-Apostar em Par ou Ímpar: O usuário digita um número e vence se acertar a natureza (par ou ímpar) do número gerado aleatoriamente.
+Aposta Numérica: Permite ao usuário apostar em um número entre 0 e 100.
+
+Aposta em Letra: Permite ao usuário escolher uma letra de A a Z.
+
+Aposta Par ou Ímpar: Usuário aposta se o número será par ou ímpar.
+
+<h1><b>Como Usar</b></h1>
+
+Para começar a usar o LotoFacil, você precisa ter o Java instalado em seu computador. Siga estes passos para rodar o programa:
+
+Clone o repositório ou baixe o código-fonte para sua máquina local. 
+
+Abra o terminal ou prompt de comando e navegue até o diretório onde o arquivo LotoFacil.java está salvo.
+
+Compile o código usando o comando:
+**javac LotoFacil.java**
+
+Execute o programa com o comando:
+
+**java LotoFacil**
+
+Siga as instruções na tela para fazer suas apostas.
+
+<h1><b>Requisitos</b></h1>
+
+Java 8 ou superior.
+
+
+Exemplo de Execução
+
+![image](https://github.com/vhvaz/Projeto_LotoFacil/assets/90483530/3817bea9-dac0-400d-bb8b-e5c9914561e6)
+
+
+<h1><b>Desenvolvimento</b></h1>
+
+Esse projeto foi desenvolvido usando:
+
+Java: Linguagem de programação.
+
+Scanner: Classe utilizada para obter entrada dos usuários.
+
+Random: Classe usada para gerar números aleatórios.
+
+<h1><b>Contribuições</b></h1>
+
+Contribuições são sempre bem-vindas! Para contribuir com o projeto, por favor, faça um fork do repositório e crie um pull request com suas melhorias.
